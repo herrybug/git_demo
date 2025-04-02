@@ -1,0 +1,3 @@
+[submodule "git-custom-name"]
+	path = git-custom-name
+	url = https://github.com/herrybug/git-custom-name
